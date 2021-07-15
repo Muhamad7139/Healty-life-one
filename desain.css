@@ -1,0 +1,199 @@
+/* Hero */
+.col-lg-6 {
+  margin-top: 90px;
+}
+
+.my-header_banner {
+  z-index: -9999;
+  position: absolute;
+  padding: 40px;
+  margin-left: 100px;
+}
+
+.btn-2 {
+  box-shadow: 1px 1px 8px #41a451;
+  background-color: #41a451;
+}
+/* Close Hero */
+
+/* Navbar */
+.nav-link {
+  margin-right: 10px;
+}
+
+.col-md-12-a {
+  margin-top: 100px;
+}
+
+.img-fluid {
+  background-position: right;
+  margin-top: 25px;
+  margin-left: 60px;
+}
+
+.my-header_button-position {
+  text-align: center;
+}
+
+.button {
+  box-shadow: 0, 2px 0, 2px 5px rgb(111, 116, 111);
+  background-color: #f0f0f0;
+  margin-top: 75px;
+  width: 240px;
+  height: 64px;
+  border: none;
+  border-radius: 30px;
+}
+
+.btn-group {
+  margin-top: 10px;
+}
+
+.btn {
+  color: white;
+  width: 220px;
+  height: 57px;
+}
+
+.my-header_title {
+  color: #009718;
+  margin-top: 70px;
+  font-weight: 900;
+}
+
+.jahanam {
+  z-index: -9999;
+  position: absolute;
+  padding: 40px;
+}
+/* Close Navbar */
+
+/* About */
+.text-center {
+  color: #009718;
+}
+
+.about-img {
+  position: absolute;
+  width: 340px;
+  height: 354px;
+  left: 240px;
+  top: 946px;
+}
+
+.aboutpemanis1 {
+  position: absolute;
+  width: 165px;
+  height: 145px;
+  left: 442px;
+  top: 941px;
+}
+
+.aboutpemanis2 {
+  position: absolute;
+  width: 208.24px;
+  height: 179.07px;
+  left: 240px;
+  top: 1141px;
+}
+
+.welcome {
+  position: absolute;
+  width: 78px;
+  height: 22px;
+  left: 670px;
+  top: 930px;
+
+  color: #009718;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.ntr {
+  position: absolute;
+  width: 317px;
+  height: 88px;
+  left: 670px;
+  top: 959px;
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 44px;
+
+  color: #009718;
+}
+
+.aku1 {
+  position: absolute;
+  width: 450px;
+  height: 68px;
+  left: 670px;
+  top: 1067px;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #000000;
+}
+
+.aku2 {
+  position: absolute;
+  width: 450px;
+  height: 68px;
+  left: 672px;
+  top: 1165px;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+
+  color: #000000;
+}
+
+.btn-about {
+  position: absolute;
+  width: 182px;
+  height: 55px;
+  left: 670px;
+  top: 1262px;
+  box-shadow: 1px 1px 8px #41a451;
+
+  background: #41a451;
+  border-radius: 5px;
+  border: none;
+  color: white;
+}
+/* Close about */
+
+/* Card */
+.text-price {
+  color: #009718;
+}
+
+.card {
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.button-buy {
+  border-radius: 5px;
+  width: 135px;
+  height: 40px;
+  border: none;
+  color: white;
+  background-color: #009718;
+  box-shadow: 3px 2px 10px rgba(114, 247, 157, 0.2);
+}
+/* Close Card */
+
+/* Pemanis */
+.pemanis {
+  filter: drop-shadow(2px 2px 8px rgba(2, 126, 42, 0.2));
+  transform: matrix(0.82, -0.57, 0.57, 0.82, 0, 0);
+}
+/* Close Pemanis */
